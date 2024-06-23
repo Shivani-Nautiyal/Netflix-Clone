@@ -9,9 +9,9 @@
    
 -> Design Highlights: <br>
    1. Flexbox/Grid Layouts : Efficient use of Flexbox and CSS Grid to create flexible and responsive layouts. <br>
-   2. Hover Effects: Interactive hover effects on movie and TV show thumbnails to enhance user experience. <br>
-   3. Custom Fonts & Icons: Incorporation of custom fonts and icons to closely mimic the Netflix aesthetic. <br>
-   4. Color Scheme: Adherence to Netflix’s color scheme, primarily using black, white, and red for a familiar look. <br>
+   2. Hover Effects : Interactive hover effects on movie and TV show thumbnails to enhance user experience. <br>
+   3. Custom Fonts & Icons : Incorporation of custom fonts and icons to closely mimic the Netflix aesthetic. <br>
+   4. Color Scheme : Adherence to Netflix’s color scheme, primarily using black, white, and red for a familiar look. <br>
    
 -- Additional Details: <br>
 This project emphasizes the importance of front-end design and demonstrates the capability to recreate complex layouts using basic web technologies. It’s a testament to the power of HTML and CSS in building visually compelling web pages. <br>
